@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ButterKnife_IOC.iml" filepath="$PROJECT_DIR$/ButterKnife_IOC.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inject/inject.iml" filepath="$PROJECT_DIR$/inject/inject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inject-annotion/inject-annotion.iml" filepath="$PROJECT_DIR$/inject-annotion/inject-annotion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inject-compile/inject-compile.iml" filepath="$PROJECT_DIR$/inject-compile/inject-compile.iml" />
     </modules>
   </component>
 </project>
