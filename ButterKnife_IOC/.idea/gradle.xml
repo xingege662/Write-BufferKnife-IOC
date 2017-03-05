@@ -12,7 +12,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/inject" />
             <option value="$PROJECT_DIR$/inject-annotion" />
-            <option value="$PROJECT_DIR$/inject-compile" />
+            <option value="$PROJECT_DIR$/inject_complie" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

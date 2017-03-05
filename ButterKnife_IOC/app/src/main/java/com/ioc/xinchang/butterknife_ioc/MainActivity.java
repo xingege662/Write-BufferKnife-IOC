@@ -6,6 +6,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.BindView;
+import com.ioc.xinchang.inject.InjectView;
 
 public class MainActivity extends AppCompatActivity {
     @BindView(R.id.tv)
@@ -14,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        InjectView.bind(this);
         Toast.makeText(this, textView.toString(), Toast.LENGTH_SHORT).show();
     }
 }
